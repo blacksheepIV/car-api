@@ -1,0 +1,110 @@
+{
+  "cars": [
+    {
+      "CARID": "46999",
+      "INSTOCK": "false",
+      "HP": "167",
+      "price": "65630",
+      "color": "red",
+      "colors": [
+        "black",
+        "white",
+        "red"
+      ]
+    },
+    {
+      "CARID": "22340",
+      "INSTOCK": "false",
+      "HP": "352",
+      "price": "79194",
+      "color": "blue",
+      "colors": [
+        "blue",
+        "white"
+      ]
+    },
+    {
+      "CARID": "66191",
+      "INSTOCK": "false",
+      "HP": "446",
+      "price": "75387",
+      "color": "gray",
+      "colors": [
+        "gray"
+      ]
+    },
+    {
+      "CARID": "41432",
+      "INSTOCK": "true",
+      "HP": "522",
+      "price": "51755",
+      "color": "black",
+      "colors": [
+        "black",
+        "gray"
+      ]
+    },
+    {
+      "CARID": "59599",
+      "INSTOCK": "true",
+      "HP": "313",
+      "price": "67841",
+      "color": "black",
+      "colors": [
+        "black"
+      ]
+    },
+    {
+      "CARID": "98060",
+      "INSTOCK": "true",
+      "HP": "368",
+      "price": "80223",
+      "color": "gray"
+    },
+    {
+      "CARID": "64677",
+      "INSTOCK": "false",
+      "HP": "521",
+      "price": "64776",
+      "color": "white",
+      "colors": [
+        "white",
+        "red"
+      ]
+    },
+    {
+      "CARID": "22518",
+      "INSTOCK": "false",
+      "HP": "192",
+      "price": "30971",
+      "color": "purple",
+      "colors": [
+        "maroon",
+        "purple"
+      ]
+    },
+    {
+      "CARID": "61576",
+      "INSTOCK": "true",
+      "HP": "495",
+      "price": "61092",
+      "color": "yellow",
+      "colors": [
+        "yellow",
+        "olive"
+      ]
+    },
+    {
+      "CARID": "74301",
+      "INSTOCK": "true",
+      "HP": "306",
+      "price": "37341",
+      "color": "white",
+      "colors": [
+        "silver",
+        "white"
+      ]
+    }
+  ],
+  "total": "10"
+}
